@@ -1,7 +1,7 @@
 # NLP_VQA
 
 ## Demo
-- [Link](https://huggingface.co/spaces/triphuong57/paligemma_finetune_v2)
+- [Link](https://huggingface.co/spaces/triphuong57/paligemma_ft_v1)
 
 ## Team Memers
 - Nguyễn Quý Đang - 22022500 
