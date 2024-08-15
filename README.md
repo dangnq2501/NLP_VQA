@@ -36,5 +36,5 @@
 [stars-url]: https://github.com/dangnq2501/NLP_VQA/stargazers 
 [issues-shield]: https://img.shields.io/github/issues/dangnq2501/NLP_VQA.svg?style=for-the-badge
 [issues-url]: https://github.com/dangnq2501/NLP_VQA/issues
-[license-shield]: https://img.shields.io/github/license/dangnq2501/NLP_VQA.svg?style=for-the-badge
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [license-url]: https://github.com/dangnq2501/NLP_VQA/blob/master/LICENSE.md
