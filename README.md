@@ -5,7 +5,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## Demo
 - [Link](https://huggingface.co/spaces/triphuong57/paligemma_ft_v1)
@@ -25,3 +24,4 @@
 [issues-shield]: https://img.shields.io/github/issues/dangnq2501/NLP_VQA.svg?style=for-the-badge
 [issues-url]: https://github.com/dangnq2501/NLP_VQA/issues
 [license-shield]: https://img.shields.io/github/license/dangnq2501/NLP_VQA.svg?style=for-the-badge
+[license-url]: https://github.com/dangnq2501/NLP_VQA/blob/master/LICENSE.txt
