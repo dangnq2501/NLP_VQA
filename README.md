@@ -21,10 +21,14 @@
 - Vũ Vân Long - 22022501
 
 ## Phân công công việc
-
+| Họ và Tên | Công việc |
+|-----------|-----------|
+| Nguyễn Quý Đang | - Phân công công việc cho thành viên nhóm<br>- Tìm hiểu tổng quan về mô hình PaliGemma<br>- Finetune mô hình PaliGemma<br>- Dựng demo mô hình PaliGemma<br>- Làm slide<br>- Xem xét, chỉnh sửa lại báo cáo |
+| Đỗ Minh Nhật | - Tìm hiểu và lựa chọn bộ dữ liệu<br>- Làm và nộp báo cáo<br>- Tìm hiểu mô hình Vistral-V-7B<br>- Tạo và chạy thử mô hình Vistral-V-7B<br>- Finetune mô hình PaliGemma với Nguyễn Quý Đang<br>- Trực quan hóa kết quả thử nghiệm |
+| Vũ Văn Long | - Tìm hiểu về các kỹ thuật tối ưu quá trình huấn luyện mô hình<br>- Xem và hiểu chỉnh phần báo cáo<br>- Viết phần Phụ lục cho báo cáo<br>- Cùng làm demo cho mô hình PaliGemma với Nguyễn Quý đang<br>- Làm slide<br>- Tìm hiểu các cách tiếp cận cổ điển với bài toán VQA đã cho |
 
 [contributors-shield]: https://img.shields.io/github/contributors/dangnq2501/NLP_VQA.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors](https://github.com/dangnq2501/NLP_VQA/graphs/contributors
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors](https://github.com/dangnq2501/NLP_VQA/graphs/contributorsf)
 [forks-shield]: https://img.shields.io/github/forks/dangnq2501/NLP_VQA.svg?style=for-the-badge
 [forks-url]: https://github.com/dangnq2501/NLP_VQA/network/members
 [stars-shield]: https://img.shields.io/github/stars/dangnq2501/NLP_VQA.svg?style=for-the-badge
