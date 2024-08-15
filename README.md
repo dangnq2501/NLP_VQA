@@ -13,7 +13,7 @@
 
 ## Website demo (Hugging Face)
 - [Link](https://huggingface.co/spaces/triphuong57/paligemma_ft_v1)
-
+<img src="DemoBTL.png">
 
 ## Thành viên nhóm
 - Nguyễn Quý Đang - 22022500 
