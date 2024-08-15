@@ -15,7 +15,8 @@
 ## Website demo (Hugging Face)
 - [Link](https://huggingface.co/spaces/triphuong57/paligemma_ft_v1)
 
-## Team Memers
+
+## Thành viên nhóm
 - Nguyễn Quý Đang - 22022500 
 - Đỗ Minh Nhật - 22022537
 - Vũ Vân Long - 22022501
